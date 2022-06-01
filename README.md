@@ -1,2 +1,4 @@
-# flask-docker-redis
-Docker compose implementation of flask and reds
+# Dockerizing Flask and Redis App
+To run the app execute the command
+
+`docker-compose up`
